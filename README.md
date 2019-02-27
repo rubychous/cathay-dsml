@@ -4,13 +4,14 @@
 2. 每個資料中皆有一個hackmd的網址，會撰寫分享筆記心得。
 ## 目錄
 | **Index** | **Folder** | **Topic** | **Speaker** |
-
 |-----|------|-----|-----|
-
 | 1| 20190114 | Intro NLP | Danny Fu |
-
 | 2| 20190128 | Bag of Words Meets Bags of Popcorn | Scott Liu |
-
 | 3| 20190211 | Word2vec Parameter Learning Explained | Scott Liu |
-
 | 4| 20190226 | Feedforward Neural Network vs. Convolution Neaural Network | Winne Wu |
+
+Age           | Time  | Food | Gold | Requirement
+--------------|:-----:|-----:| ----:|------------------------
+Feudal Age    | 02:10 |  500 |    0 | Dark Age building x 2
+Castle Age    | 02:40 |  800 |  200 | Feudal Age building x 2
+Imperial Age  | 03:30 | 1000 |  800 | Castle Age building x 2 
