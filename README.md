@@ -9,3 +9,4 @@
 | 2| 20190128 | Bag of Words Meets Bags of Popcorn | Scott Liu |
 | 3| 20190211 | Word2vec Parameter Learning Explained | Scott Liu |
 | 4| 20190226 | Feedforward Neural Network vs. Convolution Neaural Network | Winne Wu |
+| 5| 20190312 | Multiclass classification | Scott Liu |
