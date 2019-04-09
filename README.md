@@ -10,4 +10,5 @@
 | 3| 20190211 | Word2vec Parameter Learning Explained | Scott Liu |
 | 4| 20190226 | Feedforward Neural Network vs. Convolution Neaural Network | Winne Wu |
 | 5| 20190312 | Multiclass classification | Scott Liu |
-| 6| 20193025 | Active Learning | Oneil Hsiao|
+| 6| 20190325 | Active Learning | Oneil Hsiao|
+| 7| 20190401 | Density Based Clustering Methods | Ruby Chou|
