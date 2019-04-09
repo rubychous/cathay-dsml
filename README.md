@@ -5,10 +5,11 @@
 ## 目錄
 | **Index** | **Folder** | **Topic** | **Speaker** |
 |-----|------|-----|-----|
-| 1| 20190114 | Intro NLP | Danny Fu |
-| 2| 20190128 | Bag of Words Meets Bags of Popcorn | Scott Liu |
-| 3| 20190211 | Word2vec Parameter Learning Explained | Scott Liu |
-| 4| 20190226 | Feedforward Neural Network vs. Convolution Neaural Network | Winne Wu |
-| 5| 20190312 | Multiclass classification | Scott Liu |
-| 6| 20190325 | Active Learning | Oneil Hsiao|
-| 7| 20190401 | Density Based Clustering Methods | Ruby Chou|
+|1| 20190114 | Intro NLP | Danny Fu |
+|2| 20190128 | Bag of Words Meets Bags of Popcorn | Scott Liu |
+|3| 20190211 | Word2vec Parameter Learning Explained | Scott Liu |
+|4| 20190226 | Feedforward Neural Network vs. Convolution Neaural Network | Winne Wu |
+|5| 20190312 | Multiclass classification | Scott Liu |
+|6| 20190319 | Feature engineering - Mean_encoding | Danny Fu |
+|7| 20190325 | Active Learning | Oneil Hsiao|
+|8| 20190401 | Density Based Clustering Methods | Ruby Chou|
