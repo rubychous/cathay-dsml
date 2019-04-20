@@ -13,3 +13,4 @@
 |6| 20190319 | Feature engineering - Mean_encoding | Danny Fu |
 |7| 20190325 | Active Learning | Oneil Hsiao|
 |8| 20190401 | Density Based Clustering Methods | Ruby Chou|
+|9| 20190411 | Python compile | Oneil Hsiao|
