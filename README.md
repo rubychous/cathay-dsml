@@ -14,4 +14,5 @@
 |7| 20190325 | Active Learning | Oneil Hsiao|
 |8| 20190401 | Density Based Clustering Methods | Ruby Chou|
 |9| 20190411 | Python compile | Oneil Hsiao|
-|10| 20190418 | Feature Engineering-CH1 & CH2 | Winnie Wu
+|10| 20190418 | Feature Engineering-Fancy Tricks with Simple Numbers | Winnie Wu
+|11| 20190422 | Feature Engineering-Dimensionality Reduction: Squashing the Data Pancake with PCA | Jimmy Wu
