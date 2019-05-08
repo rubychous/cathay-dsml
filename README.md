@@ -16,6 +16,5 @@
 |9| 20190411 | Python compile | Oneil Hsiao|
 |10| 20190418 | Feature Engineering-Fancy Tricks with Simple Numbers | Winnie Wu
 |11| 20190422 | Feature Engineering-Dimensionality Reduction: Squashing the Data Pancake with PCA | Jimmy Wu
-|12| 20190429 | Feature Engineering-The Effects of Feature Scaling:
-From Bag-of-Words to Tf-Idf | Danny Fu
+|12| 20190429 | Feature Engineering-The Effects of Feature Scaling: From Bag-of-Words to Tf-Idf | Danny Fu
 |13| 20190509 | Feature Engineering-Categorical Variables: Counting Eggs in the Age of Robotic Chickens | Scott Liu
