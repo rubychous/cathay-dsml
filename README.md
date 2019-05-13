@@ -18,4 +18,4 @@
 |11| 20190422 | Feature Engineering-Dimensionality Reduction: Squashing the Data Pancake with PCA | Jimmy Wu
 |12| 20190429 | Feature Engineering-The Effects of Feature Scaling: From Bag-of-Words to Tf-Idf | Danny Fu
 |13| 20190509 | Feature Engineering-Categorical Variables: Counting Eggs in the Age of Robotic Chickens | Scott Liu
-|14| 20190509 | Text Data: Flattening, Filtering, and Chunking | Danny Fu
+|14| 20190513 | Text Data: Flattening, Filtering, and Chunking | Danny Fu
