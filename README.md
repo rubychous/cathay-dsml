@@ -19,3 +19,6 @@
 |12| 20190429 | Feature Engineering-The Effects of Feature Scaling: From Bag-of-Words to Tf-Idf | Danny Fu
 |13| 20190509 | Feature Engineering-Categorical Variables: Counting Eggs in the Age of Robotic Chickens | Scott Liu
 |14| 20190513 | Text Data: Flattening, Filtering, and Chunking | Danny Fu
+|15| 20190520 | Automating the Featurizer: Image Feature Extraction and Deep Learning | William Lin
+|16| 20190531 | Back to the Feature: Building an Academic Paper Recommender | Lawrence Chiu
+|17| 20190603 | Nonlinear Featurization via K-Means Model Stacking | Tom Chiang
