@@ -24,3 +24,5 @@
 |17| 20190531-2 | NewWordDetection | Jimmy Wu|
 |18| 20190603 | Nonlinear Featurization via K-Means Model Stacking | Tom Chiang|
 |19| 20190610 | write your func in a parallel computing way @python | Oneil Hsiao|
+|20| 20190624 | Data Structure - Array | Winne Wu|
+|21| 20190701 | Data Structure - Binary Search Tree | Jimmy Wu|
