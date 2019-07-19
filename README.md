@@ -26,3 +26,6 @@
 |19| 20190610 | write your func in a parallel computing way @python | Oneil Hsiao|
 |20| 20190624 | Data Structure - Array | Winne Wu|
 |21| 20190701 | Data Structure - Binary Search Tree | Jimmy Wu|
+|22| 20190712 | Data Structure - Stack | Danny Fu|
+|23| 20190719 | Data Structure - Queue | William Lin|
+|24| 20190722 | Data Structure - Binary Tree | Lawrence Chiu|
