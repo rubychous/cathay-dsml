@@ -22,10 +22,12 @@
 |15| 20190520 | Automating the Featurizer: Image Feature Extraction and Deep Learning | William Lin|
 |16| 20190531-1 | Back to the Feature: Building an Academic Paper Recommender| Lawrence Chiu|
 |17| 20190531-2 | NewWordDetection | Jimmy Wu|
-|18| 20190603 | Nonlinear Featurization via K-Means Model Stacking | Tom Chiang|
+|18| 20190603 | Nonlinear Featurization via K-Means Model Stacking | |
 |19| 20190610 | write your func in a parallel computing way @python | Oneil Hsiao|
 |20| 20190624 | Data Structure - Array | Winne Wu|
 |21| 20190701 | Data Structure - Binary Search Tree | Jimmy Wu|
 |22| 20190712 | Data Structure - Stack | Danny Fu|
 |23| 20190719 | Data Structure - Queue | William Lin|
 |24| 20190722 | Data Structure - Binary Tree | Lawrence Chiu|
+|25| 20190729 | Data Structure - Linked List | Tom Chiang|
+|26| 20190805 | Data Structure - Heap | James Lai|
